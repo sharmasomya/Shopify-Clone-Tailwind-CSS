@@ -15,4 +15,4 @@
 - [Deployed Link](https://neon-eclair-90570f.netlify.app/)
 
 ## Original Page
--[Shopify original website](https://www.shopify.com/)
+- [Shopify original website](https://www.shopify.com/)
